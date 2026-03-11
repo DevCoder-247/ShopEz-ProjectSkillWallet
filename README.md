@@ -173,7 +173,7 @@ Work is split by **feature domain** – each team member owns their feature end�
 
 ---
 
-### Aditya – Cart & Checkout / Payment
+### Abhishek – Cart & Checkout / Payment
 
 | Backend File                               | Task Description                                   |
 |--------------------------------------------|----------------------------------------------------|
@@ -264,5 +264,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Abhay, Aditi, Aditya & Abhilash</sub>
+  <sub>Built with ❤️ by Abhay, Aditi, Abhishek & Abhilash</sub>
 </div>
