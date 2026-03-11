@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <h1>🛍️ ShopEZ – Modern E‑Commerce Platform</h1>
   <p>
@@ -267,4 +266,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 <div align="center">
   <sub>Built with ❤️ by Abhay, Aditi, Aditya & Abhilash</sub>
 </div>
-```
