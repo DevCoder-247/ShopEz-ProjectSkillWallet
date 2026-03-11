@@ -123,7 +123,7 @@ The React app will open at `http://localhost:3000`.
 
 Work is split by **feature domain** – each team member owns their feature end‑to‑end (model → service → controller → routes → frontend page → API calls).
 
-### Satyam – Auth & User Management
+### Abhay – Auth & User Management
 
 | Backend File                             | Task Description                                   |
 |------------------------------------------|----------------------------------------------------|
@@ -148,7 +148,7 @@ Work is split by **feature domain** – each team member owns their feature end�
 
 ---
 
-### Rajiv – Products & Catalog
+### Aditi – Products & Catalog
 
 | Backend File                               | Task Description                                   |
 |--------------------------------------------|----------------------------------------------------|
@@ -174,7 +174,7 @@ Work is split by **feature domain** – each team member owns their feature end�
 
 ---
 
-### Tanvi – Cart & Checkout / Payment
+### Aditya – Cart & Checkout / Payment
 
 | Backend File                               | Task Description                                   |
 |--------------------------------------------|----------------------------------------------------|
@@ -195,7 +195,7 @@ Work is split by **feature domain** – each team member owns their feature end�
 
 ---
 
-### Saniya – Orders & Admin
+### Abhilash – Orders & Admin
 
 | Backend File                               | Task Description                                   |
 |--------------------------------------------|----------------------------------------------------|
@@ -265,6 +265,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Satyam, Rajiv, Tanvi & Saniya</sub>
+  <sub>Built with ❤️ by Abhay, Aditi, Aditya & Abhilash</sub>
 </div>
 ```
